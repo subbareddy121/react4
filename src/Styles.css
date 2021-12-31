@@ -1,0 +1,52 @@
+#head{
+    background-color: aqua;
+    color: rgb(234, 64, 64);
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    font-size: 20px;
+    align-items: center;
+}
+.home:hover{
+    color: chocolate;
+    
+}
+.student:hover{
+    color: chocolate;
+    
+}
+.contact:hover{
+    color: chocolate;
+    
+}
+.home{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.student{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.contact{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.btn1{
+    position: absolute;
+    top: 90px;
+    right: 60px;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    background-color: chartreuse;
+    border-radius: 20px;
+}
+.btn1:hover{
+    background-color: darkorange;
+}
+.box{
+    border: 2px solid black;
+}
