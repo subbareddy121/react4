@@ -43,6 +43,10 @@
     font-size: 16px;
     background-color: chartreuse;
     border-radius: 20px;
+    text-decoration: none;
+}
+.btn{
+    text-decoration: none;
 }
 .btn1:hover{
     background-color: darkorange;
@@ -50,3 +54,43 @@
 .box{
     border: 2px solid black;
 }
+.table{
+    align-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box1{
+    margin: 50px 0px 0px 60px;
+    height:300px ;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px;
+    
+}
+.sub{
+    margin-left: 100px;
+}
+.btnc{
+    background-color: rgb(90, 231, 212);
+    font-size: 20px;
+    
+    height: 40px;
+    width: 90px;
+    color: black;
+    border-radius: 10px;
+}
+.btns{
+    background-color: rgb(233, 105, 154);
+    font-size: 20px;
+    margin-left: 30px;
+    height: 40px;
+    width: 90px;
+    color: black;
+    border-radius: 10px;
+    
+}
+.btns1{
+    text-decoration: none;
+}
+
